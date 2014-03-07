@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Wed 05 Mar 2014 15:52:50 CET
+#
+$CMP ATMEGA8A-A
+D ATMEL ATmega8A; 8-bit Atmel Microcontroller with 8KB In-System Programmable Flash
+K 8-bit atmel microcontroller atmega 8
+F http://www.atmel.com/devices/ATMEGA8A.aspx
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 06 Mar 2014 10:57:45 CET
+#
+$CMP C
+D Condensator
+K C condensator
+$ENDCMP
+#
+$CMP CP
+D Condensator polarized
+K C condensator
+$ENDCMP
+#
+$CMP CRYSTAL
+K crystal
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP INDUCTOR
+K L inductor
+$ENDCMP
+#
+$CMP LED
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP NPN
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP PNP
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP RESISTOR
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SPEAKER
+K speaker piezo
+$ENDCMP
+#
+#End Doc Library

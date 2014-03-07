@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3  Date: Wed 05 Mar 2014 16:25:43 CET
+#encoding utf-8
+#
+# SWITCH
+#
+DEF ~SWITCH S 0 40 N N 1 F N
+F0 "S" 0 150 50 H V C BNN
+F1 "SWITCH" 0 -125 60 H I C BNN
+DRAW
+C -75 0 25 0 1 10 N
+C 75 0 25 0 1 10 N
+P 4 0 1 10  -100 50  100 50  0 50  0 100 N
+X ~ 1 -200 0 100 R 40 40 1 1 P
+X ~ 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
