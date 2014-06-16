@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 06 Mar 2014 07:54:45 CET
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_2
+K connector
+$ENDCMP
 #
 $CMP CONN_4
 K connector
