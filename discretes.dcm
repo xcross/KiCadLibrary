@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 06 Mar 2014 10:57:45 CET
+EESchema-DOCLIB  Version 2.0
 #
 $CMP C
 D Condensator
@@ -46,8 +46,18 @@ D Resistance
 K R DEV
 $ENDCMP
 #
+$CMP SCHOTTKY
+D Schottky diode simple
+K DEV DIODE
+$ENDCMP
+#
 $CMP SPEAKER
 K speaker piezo
+$ENDCMP
+#
+$CMP ZENER
+D Zener diode simple
+K DEV DIODE
 $ENDCMP
 #
 #End Doc Library
