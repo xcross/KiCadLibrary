@@ -12,4 +12,8 @@ $CMP CONN_6
 K connector
 $ENDCMP
 #
+$CMP CONN_8
+K connector
+$ENDCMP
+#
 #End Doc Library
