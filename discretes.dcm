@@ -41,23 +41,8 @@ D Resistance
 K R DEV
 $ENDCMP
 #
-$CMP RESISTOR
-D Resistance
-K R DEV
-$ENDCMP
-#
-$CMP SCHOTTKY
-D Schottky diode simple
-K DEV DIODE
-$ENDCMP
-#
 $CMP SPEAKER
 K speaker piezo
-$ENDCMP
-#
-$CMP ZENER
-D Zener diode simple
-K DEV DIODE
 $ENDCMP
 #
 #End Doc Library
