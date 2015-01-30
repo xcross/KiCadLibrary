@@ -8,11 +8,11 @@ $CMP CONN_4
 K connector
 $ENDCMP
 #
-$CMP CONN_6
+$CMP CONN_8
 K connector
 $ENDCMP
 #
-$CMP CONN_8
+$CMP CONN_6
 K connector
 $ENDCMP
 #
