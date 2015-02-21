@@ -3,4 +3,4 @@ KiCadLibrary
 
 /lib - schematic symbols
 
-/moduls - pcb footprints
+/module - pcb footprints
