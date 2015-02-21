@@ -1,5 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
+#
 $CMP C
 D Condensator
 K C condensator
@@ -21,6 +22,11 @@ $ENDCMP
 #
 $CMP INDUCTOR
 K L inductor
+$ENDCMP
+$CMP MOS_N_D
+D N-Channel MOSFET
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
 $CMP LED
