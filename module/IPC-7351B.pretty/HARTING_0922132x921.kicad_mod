@@ -1,4 +1,4 @@
-(module DIN41612B32abR (layer F.Cu) (tedit 54FAC29E)
+(module HARTING_0922132x921 (layer F.Cu) (tedit 54FAC29E)
   (fp_text reference P1 (at 0 2.5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )

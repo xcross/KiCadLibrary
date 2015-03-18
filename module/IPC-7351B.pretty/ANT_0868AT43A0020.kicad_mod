@@ -1,4 +1,4 @@
-(module 0868AT43A0020 (layer F.Cu) (tedit 5444F343)
+(module ANT_0868AT43A0020 (layer F.Cu) (tedit 5444F343)
   (fp_text reference ANT (at 0 0.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
