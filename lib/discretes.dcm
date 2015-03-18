@@ -1,6 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-#
 $CMP C
 D Condensator
 K C condensator
@@ -20,18 +19,24 @@ D Diode simple
 K DEV DIODE
 $ENDCMP
 #
+$CMP FUSE
+D Fuse
+K F fuse
+$ENDCMP
+#
 $CMP INDUCTOR
 K L inductor
-$ENDCMP
-$CMP MOS_N_D
-D N-Channel MOSFET
-K N-Channel MOSFET Logic Level
-F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
 $CMP LED
 D Diode simple
 K DEV DIODE
+$ENDCMP
+#
+$CMP MOS_N_D
+D N-Channel MOSFET
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
 $ENDCMP
 #
 $CMP NPN
@@ -49,6 +54,16 @@ $ENDCMP
 #
 $CMP SPEAKER
 K speaker piezo
+$ENDCMP
+#
+$CMP VARISTOR
+D VARISTOR
+K VR varistor
+$ENDCMP
+#
+$CMP VR
+D Resistance
+K R DEV
 $ENDCMP
 #
 #End Doc Library

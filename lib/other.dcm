@@ -1,9 +1,28 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 78xx
+D Linear Regulator 3 pin
+K power regulator linear
+$ENDCMP
+#
+$CMP LAN8720A
+D Ethernet Transceiver RMII 10/100
+K ethernet driver PHY RMII Transceiver
+$ENDCMP
+#
+$CMP LMJ99882X110DL1T39J
+D RJ45 with transformators and LED
+K RJ45
+$ENDCMP
 #
 $CMP MC34063A
 D 1.5-A PEAK BOOST/BUCK/INVERTING SWITCHING REGULATORS
 K DC REGULATORS
+$ENDCMP
+#
+$CMP SN65HVD230
+D CAN Bus Transceivers
+K CAN Transceiver
 $ENDCMP
 #
 #End Doc Library
