@@ -1,0 +1,13 @@
+(module TO263P508X450-3N (layer F.Cu) (tedit 550A8BFA)
+  (fp_text reference REF** (at 0 -12) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_text value TO263P508X450-3N (at 0 11) (layer F.Fab) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_line (start 6 -5) (end 6 6) (layer F.SilkS) (width 0.2))
+  (fp_line (start -6 -5) (end -6 8) (layer F.SilkS) (width 0.2))
+  (pad IN smd rect (at -2.64 6) (size 2.2 4) (layers F.Cu F.Paste F.Mask))
+  (pad OUT smd rect (at 2.64 6) (size 2.2 4) (layers F.Cu F.Paste F.Mask))
+  (pad GND smd rect (at 0 -5) (size 11 10) (layers F.Cu F.Paste F.Mask))
+)

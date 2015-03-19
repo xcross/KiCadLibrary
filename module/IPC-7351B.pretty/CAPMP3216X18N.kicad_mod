@@ -1,9 +1,9 @@
-(module CAPMP3216X18N (layer F.Cu) (tedit 54510F01)
-  (fp_text reference CAPMP3216X18N (at -0.15 3.5) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.2)))
+(module CAPMP3216X18N (layer F.Cu) (tedit 55092915)
+  (fp_text reference REF** (at -0.15 3.5) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
-  (fp_text value VAL** (at 0 -2.05) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.2)))
+  (fp_text value VAL** (at 0 -2.05) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
   (fp_line (start -2.65 -1.25) (end 2.65 -1.25) (layer Margin) (width 0.05))
   (fp_line (start 2.65 -1.25) (end 2.65 1.25) (layer Margin) (width 0.05))

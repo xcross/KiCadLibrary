@@ -1,0 +1,13 @@
+(module TO228P470X240-3N (layer F.Cu) (tedit 550A7785)
+  (fp_text reference REF** (at 0 -8) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_text value TO228P470X240-3N (at 0 7) (layer F.Fab) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_line (start 3.75 -3.5) (end 3.75 3.5) (layer F.SilkS) (width 0.2))
+  (fp_line (start -3.75 -3.5) (end -3.75 4.75) (layer F.SilkS) (width 0.2))
+  (pad IN smd rect (at -2.3 3.3) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
+  (pad OUT smd rect (at 2.3 3.3) (size 1.6 3) (layers F.Cu F.Paste F.Mask))
+  (pad GND smd rect (at 0 -3.35) (size 6.7 6.7) (layers F.Cu F.Paste F.Mask))
+)
