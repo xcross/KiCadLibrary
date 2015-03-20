@@ -1,8 +1,8 @@
-(module HARTING_0922232x825 (layer F.Cu) (tedit 55083D43)
-  (fp_text reference P1 (at -26.67 -5.08) (layer F.SilkS)
+(module HARTING_0922232x825 (layer F.Cu) (tedit 550ABF39)
+  (fp_text reference REF** (at 0 -6) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (fp_text value DIN41612B32abF (at 0 -5.08) (layer F.Fab) hide
+  (fp_text value DIN416122B (at 0 6) (layer F.Fab) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start -27.55 -4) (end 27.55 -4) (layer F.SilkS) (width 0.2))
